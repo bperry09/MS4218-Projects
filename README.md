@@ -9,6 +9,6 @@
 
 ```
 
-# MS4218 Projects
+# MS 4218 Projects
 
 Coursework for MS4218 (Time Series Analysis) at the University of Limerick, Ireland. Course details can be searched via: https://bookofmodules.ul.ie/ (select MS4218 in Modules dropdown). Taught by Professor Burke: https://scholar.google.com/citations?user=e3j6DE0AAAAJ&hl=en. Taken during study abroad in Spring 2017 semester.
